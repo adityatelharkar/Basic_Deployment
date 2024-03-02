@@ -4,8 +4,7 @@ import time as t
 
 #Title
 st.title("Welcome to My First Interface")
-#image
-st.image("pngbharatlogo.png")
+
 #Header
 st.header("Bharat Software Solutions")
 
